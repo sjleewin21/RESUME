@@ -1,4 +1,4 @@
-# information
+
 #### NAME: 이상준
 #### BIRTH: 1990.02.25
 #### EMAIL: sjlee@naver.com
