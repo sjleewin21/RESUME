@@ -1,13 +1,13 @@
 
 #### NAME: 이상준
 #### BIRTH: 1990.02.25
-#### EMAIL: sjlee@naver.com
-#### MOBILE: 010.0000.0000
+#### EMAIL: sjlee.win@google.com
+#### MOBILE: 010.7321.5434
 
 ## 최종 학력
 |**전공**|**학교명**|**소재지**|
 |:--------:|:--------:|:--------:|
-| 전공 | 대학교 | 대한민국 |
+| 정보통신공학과 | 경상대학교 | 대한민국 |
 
 ## 핵심 역량
 ```
@@ -17,22 +17,20 @@ KT 클립
 ## 경력 사항
 |**회사명**|**재직기간**|**소속**|**직급**|**담당업무**|
 |:--------:|:--------:|:--------:|:--------:|:--------:|
-| ㈜클립클립 | 2016.11 ~ 재직중 | 개발팀 | 사원 | 소프트웨어 개발 |
+| ㈜더블루션 | 2016.11 ~ 재직중 | 개발팀 | 사원 | CLiP 서버 개발 및 유지보수 |
 
 ## 보유 기술
 ```
-알고리즘 고수
+작성중
 ```
 
 ## 사용 가능 기술
 ```
-사용가능 언어: Python, JAVA, VBScript
+사용가능 언어: JAVA
 사용가능 O/S: Linux, Windows
-사용가능 D/B: MongoDB, ORACLE, MySQL, MS-SQL
-웹 관련: React, Angular, HTML, JavaScript, jQuery
-프레임워크 : Django, Spring, Mybatis
-인공지능 관련: M/L, D/L
-빅데이터 관련: Docker, Spark, Hadoop, etc
+사용가능 D/B: MySQL, MS-SQL
+웹 관련: HTML, JavaScript, jQuery
+프레임워크 : Spring, Mybatis
 ```
 
 ## 프로젝트 경험
